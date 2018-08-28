@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="0" name="pytest" skips="0" tests="1" time="0.084"><testcase classname="tests.test_sum" file="tests\test_sum.py" line="2" name="test_sum" time="0.0190000534058"></testcase></testsuite>
